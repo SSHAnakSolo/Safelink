@@ -19,8 +19,9 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*12)+ 1);
+var x=Math.floor((Math.random()*13)+ 1);
 var xxx=null;
+if(x=="13"){xxx="2018/12/forex-trading-markets-and-basics"}
 if(x=="12"){xxx="2018/11/prepared-for-rumahindy-tips"}
 if(x=="11"){xxx="2017/05/split-it-mining-bitcoin"}
 if(x=="10"){xxx="2017/05/get-free-credit-point-cashtree"}
