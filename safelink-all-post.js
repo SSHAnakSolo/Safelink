@@ -19,21 +19,18 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*13)+1);
+var x=Math.floor((Math.random()*10)+1);
 var xxx=null;
-if(x=="13"){xxx="2018/12/forex-trading-markets-and-basics"}
-if(x=="12"){xxx="2018/11/prepared-for-rumahindy-tips"}
-if(x=="11"){xxx="2017/05/split-it-mining-bitcoin"}
-if(x=="10"){xxx="2017/05/get-free-credit-point-cashtree"}
-if(x=="9"){xxx="2017/05/btc-prominer-the-ultimate-mining-pool-up"}
-if(x=="8"){xxx="2017/05/pang-hanya-dengan-install-aplikasi"}
-if(x=="7"){xxx="2017/05/netzme-funtastic-easy-payment"}
-if(x=="6"){xxx="2017/05/create-3d-posts-in-photoshop-cool-effects"}
-if(x=="5"){xxx="2017/05/defense-of-ancients-gameplay-newbie"}
-if(x=="4"){xxx="2017/05/seo-template-blog-premium-free-collections"}
-if(x=="3"){xxx="2017/05/simple-tunnel-http-pc-injector"}
-if(x=="2"){xxx="2017/05/google-drive-cloud-explanation"}
-if(x=="1"){xxx="2017/05/secure-shell-definition-and-usage"}a_to_ve[i].href="https://continuetolink.blogspot.com/"+xxx+".html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="2018/10/Glbl-cnmy-n--Mlt-Dgtl-Crrncy-Wrld.html"}
+if(x=="9"){xxx="2018/09/10-Tps-Fr-Strt--Smll-Bsnss-Strtp.html"}
+if(x=="8"){xxx="2018/08/Th-Scrt-Frm-ChckKlks-t-ncrs-Rvn.html"}
+if(x=="7"){xxx="2018/07/dvntgs-f-Bng--Hm-Bsnss-wnr.html"}
+if(x=="6"){xxx="2018/06/Frx-Stck-Brkr-Bggst-nd-Mst-Trstd-fr-nvstmnt.html"}
+if(x=="5"){xxx="2018/05/Msthlm-Hw-s-t-trtd-Cn-t.html"}
+if(x=="4"){xxx="2018/04/Ys-Y-Cn-Fnd-Hlthy-n-ny-Wy.html"}
+if(x=="3"){xxx="2018/03/Th-mprtnc-f-Vtmn-C-fr-Crng-Spr.html"}
+if(x=="2"){xxx="2018/02/Prctc-nvrnmntl-Qwrnss-T-r-Srrndngs.html"}
+if(x=="1"){xxx="2018/01/Th-Wy-T-Strt--Bsnss-t-Hm.html"}a_to_ve[i].href="https://checkkulkas.blogspot.com/"+xxx+".html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
