@@ -122,6 +122,7 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
+      "https://checkkulkas.blogspot.com/2019/05/svn-wys-y-mst-knw-bfr-strtng--crckt-bsnss.html",
       "https://checkkulkas.blogspot.com/2019/03/10-cntnt-kywrd-rticle-tht-mk-ads-py.html",
       "https://checkkulkas.blogspot.com/2019/03/tps-nwb-fr-mkng-hgh-qlty-st-part1.html",
       "https://checkkulkas.blogspot.com/2019/03/tps-nwb-fr-mkng-hgh-qlty-st-part2.html",
