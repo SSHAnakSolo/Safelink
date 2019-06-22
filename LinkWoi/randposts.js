@@ -122,6 +122,7 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
+      "https://linkwoi.blogspot.com/2019/06/the-10-best-wants-most-wanted-early-in.html",
       "https://linkwoi.blogspot.com/2019/06/practice-environmental-qwareness-to-our.html",
       "https://linkwoi.blogspot.com/2019/06/10-tips-for-start-small-business-startup.html",
       "https://linkwoi.blogspot.com/2019/06/yes-you-can-find-healthy-in-any-ways.html",
