@@ -19,8 +19,9 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*9)+ 1);
+var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
+if(x=="10"){xxx="2019/08/easily-resolved-without-income-in-this.html"} 
 if(x=="9"){xxx="2019/06/the-10-best-wants-most-wanted-early-in.html"} 
 if(x=="8"){xxx="2019/06/practice-environmental-qwareness-to-our.html"} 
 if(x=="7"){xxx="2019/06/10-tips-for-start-small-business-startup.html"} 
